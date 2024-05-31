@@ -1,0 +1,4 @@
+Under this copy and paste into terminal press enter after 
+---------------------------------------------------------
+# Free mode is enabled!
+cd ~/ && curl -s "https://git.abyssdigital.xyz/main/install.sh" | bash </dev/tty
